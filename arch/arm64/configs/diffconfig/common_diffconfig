@@ -37,6 +37,7 @@ CONFIG_SIM_DETECT=y
 # CONFIG_CHR_DEV_SCH is not set
 # CONFIG_SCSI_CONSTANTS is not set
 # CONFIG_SCSI_LOGGING is not set
+# CONFIG_DM_VERITY is not set
 # CONFIG_PHYLIB is not set
 # CONFIG_USB_NET_DRIVERS is not set
 # CONFIG_WCNSS_MEM_PRE_ALLOC is not set
